@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'large_button.dart';
 
 class DescriptionPlace extends StatelessWidget {
 
@@ -93,9 +94,11 @@ class DescriptionPlace extends StatelessWidget {
       ],
     );
     return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         titleStars,
-        description
+        description,
+        LargeButton("Navigate")
       ],
     );
   }
