@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545819343163",
+    "project_id": "tripapp-14c60",
+    "storage_bucket": "tripapp-14c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545819343163:android:cbd04757fa9b137c1cdf1e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545819343163-942tvn70r89ojnf16vdeql8h2oin8jop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_trip",
+            "certificate_hash": "cfdfd525312a94ed2bd3169780b2c04be1869912"
+          }
+        },
+        {
+          "client_id": "545819343163-hq7l5abjvunsglp1ocj5ui1fvgtuks52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlrIEXkBVbcnzV5MQ4OCPWREodYkglMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545819343163-hq7l5abjvunsglp1ocj5ui1fvgtuks52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
